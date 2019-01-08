@@ -1,0 +1,7 @@
+C:\Users\sahay\source\repos\LoanDepot_Project\LoanDepot_Project\bin\Debug\LoanDepot_Project.exe.config
+C:\Users\sahay\source\repos\LoanDepot_Project\LoanDepot_Project\bin\Debug\LoanDepot_Project.exe
+C:\Users\sahay\source\repos\LoanDepot_Project\LoanDepot_Project\bin\Debug\LoanDepot_Project.pdb
+C:\Users\sahay\source\repos\LoanDepot_Project\LoanDepot_Project\obj\Debug\LoanDepot_Project.csprojResolveAssemblyReference.cache
+C:\Users\sahay\source\repos\LoanDepot_Project\LoanDepot_Project\obj\Debug\LoanDepot_Project.csproj.CoreCompileInputs.cache
+C:\Users\sahay\source\repos\LoanDepot_Project\LoanDepot_Project\obj\Debug\LoanDepot_Project.exe
+C:\Users\sahay\source\repos\LoanDepot_Project\LoanDepot_Project\obj\Debug\LoanDepot_Project.pdb
